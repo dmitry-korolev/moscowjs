@@ -1,3 +1,5 @@
+Moved to https://github.com/MoscowJS/moscowjs.org
+---
 # MoscowJS — moscowjs.org
 
 Site of MoscowJS, JavaScript meetup group in Moscow.
